@@ -1,0 +1,7 @@
+# VSCODE
+.vscode
+*.code-workspace
+Makefile
+
+# BINARIES
+bin

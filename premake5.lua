@@ -16,8 +16,8 @@ project "PISTACHIO"
 	cppdialect "C++20"
 	kind "ConsoleApp"
 	
-	targetdir ("%{prj.location}/bin" .. outdir .. "%{prj.name}")
-	objdir ("%{prj.location}/bin/int" .. outdir .. "%{prj.name}")
+	targetdir ("%{prj.location}/bin/" .. outdir .. "%{prj.name}")
+	objdir ("%{prj.location}/bin/int/" .. outdir .. "%{prj.name}")
 	
 	files
 	{

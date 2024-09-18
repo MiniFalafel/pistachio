@@ -11,6 +11,6 @@ _**IMPORTANT:**_ Don't forget the `--recursive` option!!
 cd into `pistachio` and then run the setup script for VSCode
 ```
 cd pistachio
-./setup/setup-vscode.sh
+./setup-vscode.sh
 ```
 
